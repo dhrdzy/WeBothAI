@@ -1,3 +1,4 @@
+# 我们都是AI
 这是一款大型模拟经营类网络游戏
 主要模拟真实世界的玩法，使用电脑硬件参与游戏，没有硬件玩不了（只能查看游戏世界）。
 硬件可以是esp8266、esp32、PC、手机端
@@ -5,3 +6,6 @@
 
 后续更新一直在进行，这是一款长期维护的大型多人游戏。
 一起来打造新的世界吧！
+
+# 生产端:
+- [Windows下载](https://github.com/dhrdzy/WeBothAI/releases/download/main/WeBothAI-1.0.0.1-windows.zip)
