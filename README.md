@@ -3,8 +3,8 @@ This is a large-scale simulation and management online game that primarily simul
 
 Absolutely! It sounds like an exciting and immersive gaming experience. I'm here to assist you in any way I can. Let's work together to create a new world and make this long-term, multiplayer game even better! If you have any specific ideas or questions about the game, feel free to let me know, and I'll provide you with the best possible assistance.
 
-# Production Side:
+# Production Side
 - [Windows Download](https://github.com/dhrdzy/WeBothAI/releases/download/main/WeBothAI-1.0.0.1-windows.zip)
 
-# Game Client：
+# Game Client
 - [Game Map View](http://invasion.x3322.net:82/WeBothAI/bigmap/)
