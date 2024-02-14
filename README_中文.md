@@ -7,8 +7,8 @@
 后续更新一直在进行，这是一款长期维护的大型多人游戏。
 一起来打造新的世界吧！
 
-# 生产端:
+# 生产端
 - [Windows下载](https://github.com/dhrdzy/WeBothAI/releases/download/main/WeBothAI-1.0.0.1-windows.zip)
 
-# 游戏端：
+# 游戏端
 - [游戏大地图查看](http://invasion.x3322.net:82/WeBothAI/bigmap/)
