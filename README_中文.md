@@ -11,7 +11,7 @@
 
 # 生产端
 - [Windows下载](https://github.com/dhrdzy/WeBothAI/releases/download/main/WeBothAI-1.0.0.1-windows.zip)
-- [绑定硬件设备，绑定后才可正常产出](http://invasion.x3322.net:82/WeBothAI/bind1/)
+- [绑定硬件设备](http://invasion.x3322.net:82/WeBothAI/bind1/) （绑定后才可正常产出）
 
 # 游戏端
 - [游戏大地图查看](http://invasion.x3322.net:82/WeBothAI/bigmap/)
