@@ -5,6 +5,7 @@ Absolutely! It sounds like an exciting and immersive gaming experience. I'm here
 
 # Production Side
 - [Windows Download](https://github.com/dhrdzy/WeBothAI/releases/download/main/WeBothAI-1.0.0.1-windows.zip)
+- [Bind hardware devices](http://invasion.x3322.net:82/WeBothAI/bind1/) （production can only proceed normally after binding）
 
 # Game Client
 - [Game Map View](http://invasion.x3322.net:82/WeBothAI/bigmap/)
