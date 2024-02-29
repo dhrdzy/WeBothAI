@@ -10,7 +10,7 @@
 
 
 # 生产端
-- [ESP3、ESP32-C3下载](https://github.com/dhrdzy/WeBothAI/releases/download/main/ESP32.ESP32-C3.zip)
+- [ESP32、ESP32-C3下载](https://github.com/dhrdzy/WeBothAI/releases/download/main/ESP32.ESP32-C3.zip)
 - [Windows下载](https://github.com/dhrdzy/WeBothAI/releases/download/main/WeBothAI-1.0.0.1-windows.zip)
 - [绑定硬件设备](http://invasion.x3322.net:82/WeBothAI/bind1/) （绑定后才可正常产出）
 
