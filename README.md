@@ -9,4 +9,4 @@ Absolutely! It sounds like an exciting and immersive gaming experience. I'm here
 - [Bind hardware devices](http://invasion.x3322.net:82/WeBothAI/bind2/) （production can only proceed normally after binding）
 
 # Game Client
-- [Game Map View](http://invasion.x3322.net:82/WeBothAI/bigmap/)
+- [Game Map View](https://invasion.top/WeBothAI/bigmap/)
